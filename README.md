@@ -7,7 +7,7 @@ Esse repositório contém apenas a __parte de banco de dados__ do projeto integr
 
 Integrantes do grupo | Turma | Data de entrega |
 --- | --- | ---|
-Alexandre Blank Lopes , Daniela Labarca , Eduardo Godio , Gustavo teixera | CC1Mc | 23/06/2023 
+Alexandre Blank Lopes , Daniela Labarca , Eduardo Godio , Gustavo teixeira | CC1Mc | 23/06/2023 
 
  O __projeto integrado__ é um projeto feito em conjunto com as disciplinas de *Experiencia de usuário* , *Desenvolvimento de banco de dados 1* e *Construção de Software Web*.
 
